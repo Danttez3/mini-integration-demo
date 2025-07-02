@@ -14,4 +14,4 @@ Principalmente, la idea será que se ejecute de manera local descargando la imag
 Durante el transcurso de los módulos vistos, siempre se mencionaba un tal "Python". Al indagar un poco más descubrí que no es más que uno de los Lenguajes de Programación💻 más utilizados a nivel mundial.
 Aunque ahondaré mucho más en él cuando llegue el momento, era importante conocer lo más básico de Python junto con algunas definiciones que me ayudarán a crear mi script. Estas son: 
   1.  Variables (Qué son, Cómo se usan, Para qué sirven) 💬
-  2.  Funciones ("If", "Else", "Print") 👀
+  2.  Funciones ("If", "Elif" "Else", "Print") 👀
